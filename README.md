@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Umidjon Khasimov</h1>
 <h3 align="center">A passionate Android Developer</h3>
+<img align="center" src="https://media.licdn.com/dms/image/D4D16AQEHGG-TqYTAMQ/profile-displaybackgroundimage-shrink_350_1400/0/1692175585739?e=1712793600&v=beta&t=HAvCO-y3sJqSnmr-e8-CTWannfrmKos3jDOycQdFGyw>
 
 - 👨‍💻 All of my projects are available at [https://github.com/umidjonkhasimov](https://github.com/umidjonkhasimov)
 
